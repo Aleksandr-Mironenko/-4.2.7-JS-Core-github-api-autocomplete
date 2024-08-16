@@ -1,7 +1,3 @@
-// https://api.github.com/search/repositories?q=${}
-
-// https://static.vecteezy.com/system/resources/previews/000/592/759/original/vector-cross-icon.jpg
-
 class ViewInput {
   constructor() {
     this.app = document.getElementById("app");
